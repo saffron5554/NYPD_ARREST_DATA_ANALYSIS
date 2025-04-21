@@ -6,7 +6,7 @@ This data analysis project investigates arrest records from the **NYPD (New York
 
 - **Source:** NYPD Arrest Data (public dataset)
 - **Total Records Analyzed:** ~100,000 arrest records
-- **Date Range:** Primarily 2021 arrest data
+- **Date Range:** Primarily 2023 arrest data
 
 ---
 
